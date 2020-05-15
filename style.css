@@ -1,0 +1,45 @@
+.box {
+    width: 100px;
+    height: 100px;
+    position: fixed;
+    background-color: blue;
+}
+
+.box-1 {
+    left: 50px;
+    top: 50px;
+}
+
+
+.box-2 {
+    left: 75px;
+    top: 75px;
+    background-color: red;
+}
+
+.box-3 {
+    left: 200px;
+    top: 200px;
+}
+
+.box-3 {
+    left: 400px;
+    top: 400px;
+}
+
+#car {
+    position: fixed;
+    width: 50px;
+}
+
+#grandma {
+    position: fixed;
+    width: 80px;
+    left: 300px;
+}
+
+.police {
+    position: fixed;
+    width: 50px;
+    top: -100px;
+}
